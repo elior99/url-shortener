@@ -1,4 +1,4 @@
-# shortener
+# url shortener system
 
 > A Vue.js project
 
